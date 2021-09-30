@@ -8,6 +8,7 @@ github.com/cameronball
 
 Version 2021.09.16.GA.001
 
+(Copyright Notice: This project is a fork of the Cicada project, as they decided to retire the project we have decided to carry on the project shile hopefully making headyway with the code, the whitepapers are adapted from them, all code is property of us.)
 # Abstract
 
 This paper outlines a revolutionary, open source, decentralized application platform (DAPP) along with its first major application, a distributed direct democracy (DDD). To create something scalable enough to run an entire nation with no representatives, we created two cutting edge technologies to serve as the foundation of the platform:
