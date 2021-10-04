@@ -10,7 +10,7 @@ Version 2021.09.16.GA.001
 
 (Copyright Notice: This project is a fork of the Cicada project, as they decided to retire the project we have decided to carry on the project shile hopefully making headyway with the code, the whitepapers are adapted from them, all code is property of us.)
 
-# We are working on the code and have been for several years our current release date is set at 2027. We have taken the decision to postpone our initial open source release due to security concerns. But we assure you the source will be available by the time the final release ships. Here is the original whitepaper:
+# We are working on the code and have been for several years our current release date is set at 2027. We have taken the decision to postpone our initial open source release due to security concerns. But we assure you the source will be available by the time the final release ships, however part of Popularis, Stronghold (The currency implementation), is currently open source: <a href="https://github.com/stronghold-financial/stronghold">here</a>. Here is the original whitepaper:
 
 # Abstract
 
