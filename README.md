@@ -8,7 +8,7 @@ github.com/cameronball
 
 Version 2021.09.16.GA.001
 
-(Copyright Notice: This project is a fork of the Cicada project, as they decided to retire the project we have decided to carry on the project shile hopefully making headyway with the code, the whitepapers are adapted from them, all code is property of us.)
+(Copyright Notice: This project is a fork of the Cicada project, as they decided to retire the project we have decided to carry on the project while hopefully making headway with the code, the whitepapers are adapted from them, all code is property of us.)
 
 # Important Note
 
