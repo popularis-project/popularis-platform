@@ -1,6 +1,6 @@
 # Popularis: A Distributed Direct Democracy and Decentralized Application Platform
 
-### (To view whitepapers without having to download please go to the /PDFs/ folder in this repo as Github doesn't support web viewing of .docx files.)
+### (To view whitepapers without having to download please go to the /PDFs/ folder in this repo as Github doesn't support web viewing of .docx files)
 
 github.com/cameronball
 
