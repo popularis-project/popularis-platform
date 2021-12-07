@@ -8,7 +8,7 @@ Version 2021.09.16.GA.001
 
 Popularis is a revolutionary distributed direct democracy (DDD) platform that will unleash the true power of the people, allowing tomorrow&#39;s Founding Fathers to run an entire nation from the palm of their hand. It&#39;s powered by a radical new blockchain that&#39;s completely immune to centralization and pays you to secure it with a practical Universal Basic Income.
 
-The inspiration for the idea was twofold.
+The inspiration for the idea was threefold.
 
 The first inspiration came from the hard realization that technology has turned against us. The slightest youthful indiscretion can haunt a person online forever because someone captured it on a cell phone camera. Companies demand more and more of our data but can&#39;t it safe. People are tracked down and harassed in the physical world for things they said on social media. The Internet promised us a more open and transparent world, but instead we are tracked at every turn.
 
