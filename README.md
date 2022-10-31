@@ -2,6 +2,8 @@
 
 ### (To view whitepapers without having to download please go to the /PDFs/ folder in this repo as Github doesn't support web viewing of .docx files)
 
+This project is temporarily on hold, however we plan to resume work on it in the near future.
+
 github.com/cameronball
 
 [popularis [AT] iampopularis.com]
